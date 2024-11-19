@@ -24,13 +24,13 @@ Maximum Temperature
 Wind Speed
 The user inputs are processed, and the trained model predicts the weather condition.
 The predicted weather condition is displayed on the web page.
-Example
-Input Fields:
+Example<br>
+Input Fields:<br>
 
-Precipitation: 0.5
-Min Temp: 45.0
-Max Temp: 55.0
-Wind: 10.0
-Prediction Output:
+Precipitation: 0.5<br>
+Min Temp: 45.0<br>
+Max Temp: 55.0<br>
+Wind: 10.0<br>
+Prediction Output:<br>
 
 Predicted Condition: Rain

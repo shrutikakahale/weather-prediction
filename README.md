@@ -13,7 +13,7 @@ This project is a Flask web application that predicts the weather condition in S
 - Flask
 - Pandas
 - scikit-learn
-How It Works
+## How It Works
 The Flask app loads the seattle-weather.csv dataset using Pandas.
 Features are extracted, and one-hot encoding is applied to handle categorical data.
 The data is split into training and testing sets, and a logistic regression model is trained using scikit-learn.
